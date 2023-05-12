@@ -1,1 +1,2 @@
-creting_directories
+creating_directories
+collaborating with the team
